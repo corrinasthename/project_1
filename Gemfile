@@ -12,6 +12,7 @@ gem 'devise'
 gem 'foundation-rails'
 gem 'simple_form'
 
+
 group :development do
   gem 'sqlite3'
   gem 'better_errors'
